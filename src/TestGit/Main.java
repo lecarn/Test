@@ -10,7 +10,7 @@ public class Main {
         int num2;
         int total;
 
-        System.out.println("Give number 1");
+        System.out.println("Give number 123");
         num1 = scn.nextInt();
         System.out.println("Give number 2");
         num2 = scn.nextInt();
